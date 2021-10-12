@@ -1,5 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://iljoong.visualstudio.com/contosoair/_apis/build/status/iljoongkr.ContosoAir?branchName=master)](https://iljoong.visualstudio.com/contosoair/_build/latest?definitionId=6&branchName=master)
 
 # Microsoft.Github CI Demo
 
